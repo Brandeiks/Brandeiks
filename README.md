@@ -15,7 +15,7 @@
 [![Visits](https://komarev.com/ghpvc/?username=Brandeiks&color=00ff88&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Brandeiks)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-brandeiks.github.io-00ff88?style=flat-square&logo=github)](https://brandeiks.github.io)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Brandeiks-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/Brandeiks)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Brandeiks-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/Brandeiks)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Brandeiks-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2095817?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
 
 </div>
 
