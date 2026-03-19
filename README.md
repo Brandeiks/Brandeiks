@@ -63,8 +63,8 @@ LEGAL             →   Ciberderecho · LPDP Perú · Ley 30096
 | Plataforma | Perfil | Estado |
 |---|---|---|
 | 🟥 TryHackMe | [Brandeiks](https://tryhackme.com/p/Brandeiks) | ● Activo |
-| 🟩 HackTheBox | [Brandeiks](https://app.hackthebox.com/profile/Brandeiks) | ● Activo |
-| 🐳 DockerLabs | [dockerlabs.es](https://dockerlabs.es/) | ● Activo |
+| 🟩 HackTheBox | [Brandeiks](https://app.hackthebox.com/users/2095817?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs) | ● Activo |
+| 🐳 DockerLabs | [dockerlabs.es](https://dockerlabs.es/dashboard) | ● Activo |
 
 ---
 
