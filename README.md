@@ -71,7 +71,7 @@ LEGAL             →   Ciberderecho · LPDP Perú · Ley 30096
 ## 📂 Proyectos
 
 ```
-📁 Brandeiks.github.io
+📁 [Brandeiks.github.io](https://brandeiks.github.io/)
    └─ Portafolio personal — brandeiks.github.io
 
 📁 [Próximamente]
