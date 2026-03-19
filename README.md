@@ -71,7 +71,7 @@ LEGAL             →   Ciberderecho · LPDP Perú · Ley 30096
 ## 📂 Proyectos
 
 ```
-📁 [Brandeiks.github.io](https://brandeiks.github.io/)
+📁 [Brandeiks.github.io](https://brandeiks.github.io/) [Brandeiks](https://dockerlabs.es/dashboard)
    └─ Portafolio personal — brandeiks.github.io
 
 📁 [Próximamente]
