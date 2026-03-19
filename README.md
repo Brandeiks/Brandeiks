@@ -114,7 +114,7 @@ $ echo "Conectemos"
 
 📧  bzevallospastrana@gmail.com
 🌐  https://brandeiks.github.io
-🐙  https://github.com/Brandeiks
+💬  https://linkedin.com/in/brandon-zevallos-pastrana/
 ```
 
 ---
